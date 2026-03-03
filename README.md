@@ -10,7 +10,6 @@ Développement logiciel & Full-Stack
 Bachelor en informatique (CFC en développement d’applications).  
 Intéressé par la conception logicielle, l’architecture backend et les applications web modernes.
 
-Actuellement disponible à 50% en parallèle de mon Master.
 
 ---
 
