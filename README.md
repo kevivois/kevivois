@@ -13,7 +13,7 @@ Intéressé par la conception logicielle, l’architecture backend et les applic
 
 ---
 
-## Main Projects
+## Some  interesting projects
 
 ### StudEase  
 Full-stack platform connecting students and companies.  
