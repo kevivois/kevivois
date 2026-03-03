@@ -1,16 +1,44 @@
-## Hi there 👋
+# Kevin Voisin
 
-<!--
-**kevivois/kevivois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Informatique à la HES-SO Valais-Wallis  
+Développement logiciel & Full-Stack  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Bachelor en informatique (CFC en développement d’applications).  
+Intéressé par la conception logicielle, l’architecture backend et les applications web modernes.
+
+Actuellement disponible à 50% en parallèle de mon Master.
+
+---
+
+## Main Projects
+
+### StudEase  
+Full-stack platform connecting students and companies.  
+React • Next.js • Supabase • PostgreSQL • JWT
+
+### Program Generator  
+Grammar-based program generator producing executable code in C, Scala and Forth.  
+Swift • AST • Code Generation • Unit Testing
+
+### Systems Engineering Entry Page  
+Static website with automated build & deployment pipeline.  
+HTML • CSS • MKDocs • GitLab CI/CD
+
+---
+
+## Tech Stack
+
+Java • C# • Python • Swift  
+React • Next.js  
+SQL • PostgreSQL  
+Git • CI/CD  
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/kevin-voisin-775107215/
